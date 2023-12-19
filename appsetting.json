@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "LocalConnectionString": "Server=TEJAS;Database=E-CommerseApplication;Trusted_Connection=True"
+  }
+}
+
